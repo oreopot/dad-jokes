@@ -15,7 +15,7 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
         </Head>
-        <body className="flex flex-col place-items-center bg-amber-200 h-screen">
+        <body>
           <Main />
           <NextScript />
         </body>
