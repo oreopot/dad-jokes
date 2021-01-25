@@ -31,7 +31,10 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      ringWidth: ["hover", "active"],
+      scale: ["hover", "active"],
+    },
   },
   plugins: [],
 };
