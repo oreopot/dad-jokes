@@ -34,6 +34,7 @@ module.exports = {
     extend: {
       ringWidth: ["hover", "active"],
       scale: ["hover", "active"],
+      // rotate: ["hover"],
     },
   },
   plugins: [],

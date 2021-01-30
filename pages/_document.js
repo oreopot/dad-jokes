@@ -10,10 +10,8 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link
-            href="https://fonts.googleapis.com/css2?family=Itim&family=Permanent+Marker&display=swap"
-            rel="stylesheet"
-          />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Itim&display=swap" rel="stylesheet" />
         </Head>
         <body>
           <Main />

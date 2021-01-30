@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @layer components {
-  .font-perm-marker {
-    font-family: "Permanent Marker", cursive;
+  .font-gloria {
+    font-family: 'Gloria Hallelujah', cursive;
   }
   .font-itim {
     font-family: "Itim", cursive;
